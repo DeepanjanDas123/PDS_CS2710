@@ -1,0 +1,9 @@
+4
+7
+push_back 10
+push_front 20
+push_back 30
+push_front 40
+pop_front
+pop_back
+isEmpty
